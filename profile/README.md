@@ -1,4 +1,5 @@
-![CAPAS DO MANUAIS DO PEN (PRINCIPAL) - WIKI PEN (1080 x 360 px) (1080 x 250 px)](https://github.com/pengovbr/.github/assets/3831408/dd5a6408-c966-4097-b989-ed0b9a67e88b)
+![CAPA Github PEN - sem p integrado(1080 x 250 px)](https://github.com/pengovbr/.github/assets/3831408/1adf6310-368c-4132-9ffb-2701031f9922)
+
 
 
 Acesse e saiba mais:
