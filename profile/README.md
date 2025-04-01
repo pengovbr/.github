@@ -4,10 +4,17 @@
 
 
 
-Acesse e saiba mais:
- - Explore as [soluções e novidades do PEN](https://gov.br/pen) 
- - Conheça o [Programa Nacional do Processo Eletrônico](https://gov.br/propen)
- - Inicie a [Jornada de Implantação do PEN](https://gov.br/jornadapen)
+Já utiliza as soluções do PEN?
+- Explore todas as soluções e [acompanhe as novidades do PEN](https://gov.br/pen)
+- Conheça o [Programa Nacional do Processo Eletrônico - ProPEN](https://gov.br/propen)
+ 
+Acesse o [Manual do PEN](https://manuais.processoeletronico.gov.br) e a [WikiPEN](https://wiki.processoeletronico.gov.br/)
 
 > [!IMPORTANT]
-> Preencha o formulário [para aderir ou atualizar a versão do SEI e demais soluções do PEN](https://forms.office.com/pages/responsepage.aspx?id=aSnJPlFaGE-Kye-Y-6-pePYwCTQ34wpDr7vO3HlluQ9UQVdaTlZPS0E1WUpLRVBYNlVCU0I0TU5OUSQlQCN0PWcu)
+> Alguns repositórios do PEN são privados. Para obter acesso é necessário realizar a adesão ao PEN (Órgãos e entidades da Administração Pública Federal) ou ProPEN (Entes Federativos).
+> 
+> Acesse as [orientações para adesão ao PEN.](https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/adesaoPEN-APF)
+>
+> Acesse as [orientações para adesão ao ProPEN.](https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/propen/Faca-adesao-Propen/Faca-sua-Adesao-ProPEN)
+
+Para suporte técnico, abra seu chamado no [Portal de Serviços da Central de Atendimento](https://gov.br/centraldeatendimento)
